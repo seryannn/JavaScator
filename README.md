@@ -36,7 +36,7 @@ pip install -r requirements.txt
 ## Usage
 
 ```bash
-python js_obfuscator.py <file.js> [options]
+python main.py <file.js> [options]
 ```
 
 ### Main Options
@@ -65,8 +65,9 @@ python main.py script.js --debug
 
 ```
 JavaScator/
-├── js_obfuscator.py       # Main script
-├── JavaDist/              # Output folder for obfuscated files
+├── main.py       # Main script
+├── JavaDist/      # Output folder for obfuscated files
+├── JavaScator-Global/           
 ├── requirements.txt       # Python dependencies
 └── README.md
 ```
