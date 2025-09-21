@@ -26,7 +26,7 @@ JavaScator is an advanced Python-based JavaScript obfuscator designed to protect
 Clone the repository and ensure you have Python 3.7+ installed along with required dependencies:
 
 ```bash
-git clone https://github.com/USRR344/JavaScator.git
+git clone https://github.com/seryannn/JavaScator.git
 cd JavaScator
 pip install -r requirements.txt
 ````
